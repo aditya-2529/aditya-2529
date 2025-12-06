@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-2529&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-2529" /> </p>
 
-- 🔭 I’m currently working on [Android Projects by CodSoft](https://github.com/aditya-2529/codsoft_2.git)
+<!-- 🔭 I’m currently working on [Android Projects by CodSoft](https://github.com/aditya-2529/codsoft_2.git)-->
 
 - 🌱 I’m currently learning **Deep Learning**
 
